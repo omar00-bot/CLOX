@@ -16,5 +16,6 @@ typedef struct
 } Chunk;
 
 void initChunk(Chunk* chunk);
+void freeChunk(Chunk* chunk);
 
 #endif

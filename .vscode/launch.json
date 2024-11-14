@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/programming/CLOX",
-      "program": "d:/programming/CLOX/build/Debug/outDebug",
+      "cwd": "c:/Users/oorga/Desktop/CLOX/src",
+      "program": "c:/Users/oorga/Desktop/CLOX/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
